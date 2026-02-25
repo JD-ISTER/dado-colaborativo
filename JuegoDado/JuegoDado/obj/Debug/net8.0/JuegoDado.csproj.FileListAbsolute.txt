@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\bin\Debug\net8.0\JuegoDado.exe
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\bin\Debug\net8.0\JuegoDado.deps.json
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\bin\Debug\net8.0\JuegoDado.runtimeconfig.json
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\bin\Debug\net8.0\JuegoDado.dll
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\bin\Debug\net8.0\JuegoDado.pdb
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.AssemblyInfo.cs
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.sourcelink.json
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.dll
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\refint\JuegoDado.dll
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.pdb
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\JuegoDado.genruntimeconfig.cache
+C:\Users\hp\source\repos\dado-colaborativo\JuegoDado\JuegoDado\obj\Debug\net8.0\ref\JuegoDado.dll

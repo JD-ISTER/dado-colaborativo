@@ -36,7 +36,7 @@ namespace JuegoDado
                 // Estadísticas
                 Console.WriteLine($"Promedio: {historial.Average():F2} | Máximo: {historial.Max()}");
             }
-            Console.WriteLine("Fin del juego.");
+            Console.WriteLine("Juego finalizado Hasta luego");
         }
     }
 }
