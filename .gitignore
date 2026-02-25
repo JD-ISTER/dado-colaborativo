@@ -3,3 +3,13 @@
 ################################################################################
 
 *.vsidx
+*.suo
+/JuegoDado/JuegoDado/obj/project.nuget.cache
+/JuegoDado/JuegoDado/obj/Debug/net8.0/JuegoDado.assets.cache
+/JuegoDado/JuegoDado/obj/Debug/net8.0/JuegoDado.AssemblyInfo.cs
+/JuegoDado/JuegoDado/obj/Debug/net8.0/JuegoDado.AssemblyInfoInputs.cache
+/JuegoDado/JuegoDado/obj/Debug/net8.0/JuegoDado.GeneratedMSBuildEditorConfig.editorconfig
+/JuegoDado/JuegoDado/obj/Debug/net8.0/JuegoDado.GlobalUsings.g.cs
+/JuegoDado/JuegoDado/obj/JuegoDado.csproj.nuget.dgspec.json
+/JuegoDado/JuegoDado/obj/JuegoDado.csproj.nuget.g.props
+/JuegoDado/JuegoDado/obj/project.assets.json
