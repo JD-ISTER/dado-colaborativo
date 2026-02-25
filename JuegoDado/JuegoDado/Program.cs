@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace JuegoDado
 {
@@ -7,22 +8,30 @@ namespace JuegoDado
         static void Main(string[] args)
         {
             Console.WriteLine("=== JUEGO DE DADOS ===");
-            bool valido = false;
+            List<int> historial = new List<int>();
+            bool salir = false;
 
-            while (!valido)
+            while (!salir)
             {
-                Console.WriteLine("Presiona ENTER para lanzar...");
-                var tecla = Console.ReadKey(true);
+                Console.WriteLine("Enter para lanzar, 'S' para salir:");
+                var input = Console.ReadKey(true);
 
-                if (tecla.Key == ConsoleKey.Enter)
-                    valido = true;
-                else
-                    Console.WriteLine("Tecla inválida.");
+                if (input.Key == ConsoleKey.S) { salir = true; continue; }
+                if (input.Key != ConsoleKey.Enter)
+                {
+                    Console.WriteLine("\nTecla inválida.");
+                    continue;
+                }
+
+                Random rnd = new Random();
+                int res = rnd.Next(1, 7);
+                historial.Add(res);
+
+                Console.WriteLine($"\nResultado: {res}");
+                // Historial últimos 5
+                var ultimos = historial.Count > 5 ? historial.GetRange(historial.Count - 5, 5) : historial;
+                Console.WriteLine($"Historial: {string.Join(", ", ultimos)}");
             }
-
-            Random rnd = new Random();
-            int resultado = rnd.Next(1, 7);
-            Console.WriteLine($"\nResultado: {resultado}");
         }
     }
 }
